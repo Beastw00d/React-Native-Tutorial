@@ -1,2 +1,2 @@
 # React-Native-Tutorial
-following a react-native tuturial
+following a react-native tutorial
